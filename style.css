@@ -9,6 +9,9 @@ body {
   background-color: rgba(0, 0, 0, 0.2);
   background-size: cover;
 }
+body h3 {
+  text-align: center;
+}
 
 .navbar {
   font-family: "Roboto", sans-serif;
